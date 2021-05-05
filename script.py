@@ -1,12 +1,12 @@
 class Script(object):
 
-    START_MSG = """<b>OffiCial FilTer Bot Of @seriesCornerGroup {},
+    START_MSG = """ Nothing here
 
 """
 
 
     HELP_MSG = """
-Nothing here.......
+Nothing here too.......
 """
 
 
