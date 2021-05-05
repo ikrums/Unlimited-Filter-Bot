@@ -52,9 +52,11 @@ See <i>/help</i> for commands and more details.</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : Owlze Filter Bot</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Bot Maneger :</b> @Mr_ZoD
+
+⭕️<b>Creater :</b> @TroJanzHEX   
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
